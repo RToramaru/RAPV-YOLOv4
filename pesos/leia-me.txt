@@ -1,0 +1,7 @@
+Devido ao tamanho dos arquivos os mesmos não podem ser inseridos no GitHub
+Os links seguintes farão o download dos pesos
+
+
+https://docs.google.com/uc?export=download&confirm=Y7Kx&id=1D4U8X5nCSNBSuiGvpQNhOjmdwTyxbdls
+https://docs.google.com/uc?export=download&confirm=sGXx&id=15cf8gKzVlblFuh8yoi4ovjLrLvz0wFbr
+https://docs.google.com/uc?export=download&confirm=tQwB&id=1D4U8X5nCSNBSuiGvpQNhOjmdwTyxbdls
