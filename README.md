@@ -30,14 +30,14 @@ Para a detecção do veiculo a imagem necessita ser apenas dos caracteres binár
 
 ### Uma representação dessas etapas podem ser vistas nas imagens
 
-![Bilby Stampede](https://github.com/RToramaru/RAPV-YOLOv4/images/placa.png)
+![placa](https://github.com/RToramaru/RAPV-YOLOv4/blob/main/images/placa.png)
 
-![Bilby Stampede](https://github.com/RToramaru/RAPV-YOLOv4/images/regiao.png)
+![regiao](https://github.com/RToramaru/RAPV-YOLOv4/blob/main/images/regiao.png)
 
-![Bilby Stampede](https://github.com/RToramaru/RAPV-YOLOv4/images/O.png)
-![Bilby Stampede](https://github.com/RToramaru/RAPV-YOLOv4/images/K.png)
-![Bilby Stampede](https://github.com/RToramaru/RAPV-YOLOv4/images/K.png)
-![Bilby Stampede](https://github.com/RToramaru/RAPV-YOLOv4/images/7.png)
-![Bilby Stampede](https://github.com/RToramaru/RAPV-YOLOv4/images/4.png)
-![Bilby Stampede](https://github.com/RToramaru/RAPV-YOLOv4/images/4.png)
-![Bilby Stampede](https://github.com/RToramaru/RAPV-YOLOv4/images/8.png)
+![O](https://github.com/RToramaru/RAPV-YOLOv4/blob/main/images/O.png)
+![K](https://github.com/RToramaru/RAPV-YOLOv4/blob/main/images/K.png)
+![K](https://github.com/RToramaru/RAPV-YOLOv4/blob/main/images/K.png)
+![7](https://github.com/RToramaru/RAPV-YOLOv4/blob/main/images/7.png)
+![4](https://github.com/RToramaru/RAPV-YOLOv4/blob/main/images/4.png)
+![4](https://github.com/RToramaru/RAPV-YOLOv4/blob/main/images/4.png)
+![8](https://github.com/RToramaru/RAPV-YOLOv4/blob/main/images/8.png)
